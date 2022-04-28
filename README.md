@@ -14,4 +14,4 @@ Installing ESP8266 Board in Arduino IDE.
 All the libraries used in the project.
 
 # Demo
-Link youtube: https://youtube.com/shorts/IpVIkAYoiLU
+Link youtube: https://youtube.com/shorts/zPbL1e1BjeU
