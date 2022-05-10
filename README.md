@@ -33,4 +33,4 @@ All the libraries used in the project.
 
 # Demo
 - Mecanum Manual Control through WebSever with 8 directions: Link youtube: https://youtube.com/shorts/zPbL1e1BjeU
-- Mecanum tracking control with rectangle trajectory using openCV and urllib.request library (with low quality): Link youtube: https://www.youtube.com/watch?v=ouCDkRBMcl0
+- Mecanum tracking control with rectangle trajectory using openCV and urllib.request library (tracking trajectory with low quality): Link youtube: https://www.youtube.com/watch?v=ouCDkRBMcl0
