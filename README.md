@@ -17,8 +17,7 @@ Pycharm or Python with Visual Studio Code.
 All the libraries used in the project.
 
 # Connection
-![image](https://user-images.githubusercontent.com/104365389/167612848-7b9ce896-af12-422d-874b-f95f2e936a8c.png)
-
+![image](https://user-images.githubusercontent.com/104365389/167660012-8eb012fb-5f6d-4bd9-ab07-c07c7799587b.png)
 # How to run
 1. Upload code for Adruino Mega2560 (ESP8266_with_Adruino.ino).
 2. Upload code for ESP 8266 (Web_Server.ino), connect to your wifi with SSID and Password, then run the Serial Monitor in AdruinoIDE (where you upload the code for ESP 8266) to get ESP's IP address.
