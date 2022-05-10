@@ -49,7 +49,7 @@ cv2.createTrackbar("Sat max", "Trackbars", 255, 255, empty)
 cv2.createTrackbar("Val max", "Trackbars", 255, 255, empty)
 
 while True:
-    img = cv2.imread(r"D:\Python\dataset\sample191.jpg")
+    img = cv2.imread(r"Your location\dataset\sample191.jpg")
     img_blur = cv2.GaussianBlur(img, (5, 5), 0)
     imgHSV = cv2.cvtColor(img_blur, cv2.COLOR_BGR2HSV)
 
