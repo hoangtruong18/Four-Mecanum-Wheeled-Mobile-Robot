@@ -5,7 +5,7 @@ import math
 import urllib.request
 import threading
 
-root_url = "http://192.168.1.10"
+root_url = "//paste url here"
 
 
 # ESP's url, ex: http://192.168.102 (Esp prints it to serial console when connected to wi-fi)
